@@ -1,4 +1,4 @@
-package day06;
+package selectstudent;
 
 import java.util.ArrayList;
 import java.util.List;
