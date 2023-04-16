@@ -16,7 +16,7 @@ Select-Student-Task-Practice
 
 
 
-************************  StudentClass and SelectStudentClass what is their purpose? ******************************
+************************ What is the purpose of StudentClass and SelectStudentClass ? ******************************
 
 The code defines a Student class with four attributes: name, gender, height, and weight. It has 
 a constructor that takes these attributes as parameters and sets them in the object. It also has 
@@ -41,7 +41,8 @@ the students that meet the criteria. It then collects the selected students into
 The program prints out the list of selected students and the execution time, just like the SelectStudent class.
 
 
-*********************** SelectStudentLambda What is the purpose? **************************
+*********************** What is the purpose of SelectStudentLambda ? **************************
+
 This Java code is designed to input information about a group of students, filter and select the ones that meet
 specific criteria, and output the names, genders, heights, and weights of the selected students. The criteria for
 selection are different for male and female students, and include height and weight ranges.
