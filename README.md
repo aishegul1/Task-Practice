@@ -2,7 +2,7 @@
 Select-Student-Task-Practice
 
 
-                            SELECT STUDENT Task
+                                  SELECT STUDENT Task
 1) As many students as the number of students entered by the user;
 2) by getting their name, gender, height and weight information
    using this information to determine the students who will be accepted to the course,
